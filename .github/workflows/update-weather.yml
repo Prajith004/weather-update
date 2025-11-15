@@ -1,0 +1,120 @@
+name: Daily Weather Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once per day at 00:00 UTC (5:30 AM IST)
+  workflow_dispatch:
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Install jq
+      run: sudo apt-get update && sudo apt-get install -y jq
+
+    - name: Fetch weather and update README
+      env:
+        LAT: "13.33467"   # Udupi latitude
+        LON: "74.74617"   # Udupi longitude
+      run: |
+        # Fetch weather forecast for 4 days (today + next 3)
+        RESPONSE=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&hourly=temperature_2m,weathercode,windspeed_10m&daily=temperature_2m_max,temperature_2m_min,windspeed_10m_max,weathercode&forecast_days=4&timezone=auto")
+
+        TODAY=$(date +"%Y-%m-%d")
+        CITY="Udupi, Karnataka, India"
+
+        echo "# Weather in ${CITY}" > README.md
+        echo "" >> README.md
+        echo "**Date:** ${TODAY}" >> README.md
+        echo "" >> README.md
+
+        #############################
+        # Weather codes mapping
+        #############################
+        cat << 'EOF' > codes.json
+        {
+          "0": "Clear sky", "1": "Mainly clear", "2": "Partly cloudy", "3": "Overcast",
+          "45": "Fog", "48": "Depositing rime fog",
+          "51": "Light drizzle", "53": "Moderate drizzle", "55": "Dense drizzle",
+          "61": "Slight rain", "63": "Moderate rain", "65": "Heavy rain",
+          "71": "Slight snow", "73": "Moderate snow", "75": "Heavy snow",
+          "80": "Rain showers", "81": "Heavy rain showers", "82": "Violent rain showers",
+          "95": "Thunderstorm", "96": "Thunderstorm with hail"
+        }
+        EOF
+
+        #############################
+        # Hourly weather (today)
+        #############################
+        echo "## Today's Hourly Weather" >> README.md
+        echo "" >> README.md
+
+        echo -n "| Hour " >> README.md
+        for h in $(seq 0 23); do printf "| %02d:00 " $h >> README.md; done
+        echo "|" >> README.md
+
+        echo -n "|------" >> README.md
+        for h in $(seq 0 23); do echo -n "|------" >> README.md; done
+        echo "|" >> README.md
+
+        echo -n "| Condition " >> README.md
+        for h in $(seq 0 23); do
+          CODE=$(echo "$RESPONSE" | jq -r ".hourly.weathercode[$h]")
+          DESC=$(jq -r --argjson c "$CODE" '.[$c|tostring]' codes.json)
+          echo -n "| ${DESC}" >> README.md
+        done
+        echo "|" >> README.md
+
+        echo -n "| Temperature (°C) " >> README.md
+        for h in $(seq 0 23); do
+          TEMP=$(echo "$RESPONSE" | jq -r ".hourly.temperature_2m[$h]")
+          echo -n "| ${TEMP}°C" >> README.md
+        done
+        echo "|" >> README.md
+
+        echo -n "| Wind (kph) " >> README.md
+        for h in $(seq 0 23); do
+          WIND=$(echo "$RESPONSE" | jq -r ".hourly.windspeed_10m[$h]")
+          echo -n "| ${WIND}" >> README.md
+        done
+        echo "|" >> README.md
+
+        #############################
+        # 3-day forecast
+        #############################
+        echo "" >> README.md
+        echo "" >> README.md
+        echo "## Weather For Next 3 Days" >> README.md
+        echo "" >> README.md
+
+        echo "| Date | Condition | Temp (min - max °C) | Max Wind (kph) |" >> README.md
+        echo "|------|------------|---------------------|----------------|" >> README.md
+
+        for d in 0 1 2; do
+          DATE=$(echo "$RESPONSE" | jq -r ".daily.time[$d]")
+          CODE=$(echo "$RESPONSE" | jq -r ".daily.weathercode[$d]")
+          COND=$(jq -r --argjson c "$CODE" '.[$c|tostring]' codes.json)
+          TMIN=$(echo "$RESPONSE" | jq -r ".daily.temperature_2m_min[$d]")
+          TMAX=$(echo "$RESPONSE" | jq -r ".daily.temperature_2m_max[$d]")
+          WIND=$(echo "$RESPONSE" | jq -r ".daily.windspeed_10m_max[$d]")
+          echo "| ${DATE} | ${COND} | ${TMIN} - ${TMAX} | ${WIND} |" >> README.md
+        done
+
+        echo "" >> README.md
+        echo "_Last updated: $(date -u) UTC_" >> README.md
+
+    - name: Commit and push changes
+      run: |
+        if [[ -n "$(git status --porcelain)" ]]; then
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Daily weather update (Udupi)"
+          git push
+        else
+          echo "No changes to commit."
+        fi
