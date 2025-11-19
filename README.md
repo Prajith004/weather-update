@@ -1,22 +1,22 @@
 # Weather in Udupi, Karnataka, India
 
-**Date:** 2025-11-18
+**Date:** 2025-11-19
 
 ## Today's Hourly Weather
 
 | Hour | 00:00 | 01:00 | 02:00 | 03:00 | 04:00 | 05:00 | 06:00 | 07:00 | 08:00 | 09:00 | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 | 16:00 | 17:00 | 18:00 | 19:00 | 20:00 | 21:00 | 22:00 | 23:00 |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Condition | Overcast| Overcast| Overcast| Overcast| Overcast| Mainly clear| Clear sky| Mainly clear| Partly cloudy| Mainly clear| Mainly clear| Partly cloudy| Mainly clear| Partly cloudy| Partly cloudy| Partly cloudy| Partly cloudy| Overcast| Partly cloudy| Partly cloudy| Mainly clear| Partly cloudy| Partly cloudy| Partly cloudy|
-| Temperature (°C) | 28.2°C| 27.6°C| 26.9°C| 26.8°C| 27.0°C| 27.1°C| 27.0°C| 26.9°C| 27.0°C| 27.6°C| 28.4°C| 29.5°C| 30.2°C| 29.6°C| 28.8°C| 28.6°C| 28.5°C| 28.6°C| 28.7°C| 28.8°C| 28.8°C| 28.8°C| 28.8°C| 28.7°C|
-| Wind (kph) | 8.2| 10.5| 12.2| 11.6| 12.1| 13.7| 15.1| 15.8| 16.3| 16.3| 13.9| 9.3| 1.0| 9.3| 14.9| 15.5| 16.9| 15.6| 14.6| 14.3| 14.1| 11.2| 3.7| 4.1|
+| Condition | Heavy rain showers| Rain showers| Overcast| Overcast| Overcast| Partly cloudy| Mainly clear| Mainly clear| Clear sky| Clear sky| Clear sky| Mainly clear| Clear sky| Clear sky| Mainly clear| Mainly clear| Mainly clear| Mainly clear| Mainly clear| Mainly clear| Mainly clear| Partly cloudy| Partly cloudy| Partly cloudy|
+| Temperature (°C) | 27.9°C| 27.9°C| 27.9°C| 27.8°C| 27.7°C| 27.7°C| 27.6°C| 27.2°C| 27.0°C| 27.3°C| 27.8°C| 28.2°C| 27.8°C| 27.7°C| 28.0°C| 28.0°C| 28.1°C| 28.1°C| 28.1°C| 28.2°C| 28.3°C| 28.2°C| 28.2°C| 28.0°C|
+| Wind (kph) | 9.3| 10.8| 8.6| 6.0| 4.0| 3.3| 4.9| 6.5| 7.4| 6.9| 5.3| 2.5| 13.0| 13.8| 14.9| 15.5| 15.0| 13.1| 11.4| 9.8| 7.5| 7.4| 6.9| 4.8|
 
 
 ## Weather For Next 3 Days
 
 | Date | Condition | Temp (min - max °C) | Max Wind (kph) |
 |------|------------|---------------------|----------------|
-| 2025-11-18 | Overcast | 26.8 - 30.2 | 16.9 |
-| 2025-11-19 | Thunderstorm | 27.1 - 28.5 | 16.9 |
-| 2025-11-20 | Rain showers | 27.2 - 28.8 | 17.0 |
+| 2025-11-19 | Heavy rain showers | 27.0 - 28.3 | 15.5 |
+| 2025-11-20 | Rain showers | 26.9 - 28.5 | 16.9 |
+| 2025-11-21 | Overcast | 26.4 - 28.4 | 17.3 |
 
-_Last updated: Tue Nov 18 01:15:18 UTC 2025 UTC_
+_Last updated: Wed Nov 19 01:14:57 UTC 2025 UTC_
