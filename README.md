@@ -1,22 +1,22 @@
 # Weather in Udupi, Karnataka, India
 
-**Date:** 2025-11-30
+**Date:** 2025-12-01
 
 ## Today's Hourly Weather
 
 | Hour | 00:00 | 01:00 | 02:00 | 03:00 | 04:00 | 05:00 | 06:00 | 07:00 | 08:00 | 09:00 | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 | 16:00 | 17:00 | 18:00 | 19:00 | 20:00 | 21:00 | 22:00 | 23:00 |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Condition | Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Overcast| Mainly clear| Partly cloudy| Overcast| Partly cloudy| Overcast| Partly cloudy| Partly cloudy| Partly cloudy|
-| Temperature (°C) | 27.8°C| 27.3°C| 26.8°C| 26.5°C| 26.3°C| 26.3°C| 26.4°C| 26.4°C| 26.5°C| 27.0°C| 27.9°C| 28.7°C| 29.3°C| 29.8°C| 29.4°C| 28.3°C| 27.9°C| 28.4°C| 28.5°C| 28.5°C| 28.5°C| 28.6°C| 28.4°C| 28.3°C|
-| Wind (kph) | 9.5| 9.6| 9.2| 8.0| 7.4| 8.7| 8.9| 9.5| 11.6| 12.5| 11.8| 10.9| 7.6| 0.7| 9.0| 14.2| 16.3| 17.3| 18.7| 20.4| 21.4| 22.2| 21.6| 19.4|
+| Condition | Overcast| Overcast| Partly cloudy| Partly cloudy| Partly cloudy| Partly cloudy| Mainly clear| Mainly clear| Clear sky| Clear sky| Mainly clear| Clear sky| Clear sky| Clear sky| Clear sky| Clear sky| Mainly clear| Mainly clear| Clear sky| Mainly clear| Overcast| Overcast| Overcast| Overcast|
+| Temperature (°C) | 28.4°C| 28.3°C| 28.2°C| 27.7°C| 27.2°C| 27.0°C| 26.9°C| 26.9°C| 27.1°C| 27.6°C| 28.2°C| 28.6°C| 28.5°C| 28.0°C| 28.0°C| 28.1°C| 28.1°C| 28.2°C| 28.2°C| 28.3°C| 28.3°C| 28.2°C| 28.2°C| 28.1°C|
+| Wind (kph) | 12.0| 10.8| 10.5| 10.6| 10.7| 9.6| 9.7| 10.0| 10.1| 9.0| 5.8| 1.5| 6.4| 14.7| 17.2| 16.6| 17.0| 15.7| 11.3| 6.4| 6.1| 8.6| 11.0| 12.3|
 
 
 ## Weather For Next 3 Days
 
 | Date | Condition | Temp (min - max °C) | Max Wind (kph) |
 |------|------------|---------------------|----------------|
-| 2025-11-30 | Overcast | 26.3 - 29.8 | 22.2 |
-| 2025-12-01 | Partly cloudy | 26.9 - 28.7 | 20.1 |
-| 2025-12-02 | Partly cloudy | 26.1 - 28.5 | 18.8 |
+| 2025-12-01 | Overcast | 26.9 - 28.6 | 17.2 |
+| 2025-12-02 | Overcast | 26.4 - 28.4 | 18.4 |
+| 2025-12-03 | Overcast | 26.6 - 28.7 | 19.1 |
 
-_Last updated: Sun Nov 30 01:24:14 UTC 2025 UTC_
+_Last updated: Mon Dec  1 01:28:38 UTC 2025 UTC_
