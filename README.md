@@ -1,22 +1,22 @@
 # Weather in Udupi, Karnataka, India
 
-**Date:** 2026-05-16
+**Date:** 2026-05-17
 
 ## Today's Hourly Weather
 
 | Hour | 00:00 | 01:00 | 02:00 | 03:00 | 04:00 | 05:00 | 06:00 | 07:00 | 08:00 | 09:00 | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 | 16:00 | 17:00 | 18:00 | 19:00 | 20:00 | 21:00 | 22:00 | 23:00 |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Condition | Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Rain showers| Light drizzle| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Rain showers| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm|
-| Temperature (°C) | 28.0°C| 27.9°C| 27.9°C| 26.7°C| 25.4°C| 24.8°C| 25.3°C| 26.8°C| 27.6°C| 29.1°C| 30.3°C| 31.4°C| 31.7°C| 31.6°C| 31.0°C| 30.7°C| 28.3°C| 27.3°C| 26.5°C| 26.8°C| 26.8°C| 26.6°C| 26.6°C| 26.6°C|
-| Wind (kph) | 8.9| 10.0| 10.2| 2.9| 6.7| 8.7| 5.4| 3.9| 2.6| 9.9| 18.4| 20.5| 21.9| 22.8| 22.1| 20.0| 9.6| 9.2| 6.8| 3.1| 3.9| 5.9| 5.1| 5.5|
+| Condition | Overcast| Overcast| Overcast| Partly cloudy| Partly cloudy| Light drizzle| Partly cloudy| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Heavy rain showers| Heavy rain showers| Rain showers| Heavy rain showers| Dense drizzle| Light drizzle| Overcast| Overcast|
+| Temperature (°C) | 25.9°C| 26.0°C| 26.1°C| 26.1°C| 26.2°C| 26.6°C| 26.6°C| 27.8°C| 29.2°C| 30.3°C| 31.3°C| 31.3°C| 29.8°C| 28.5°C| 29.2°C| 30.3°C| 27.3°C| 25.7°C| 25.5°C| 25.3°C| 25.5°C| 25.6°C| 25.7°C| 25.6°C|
+| Wind (kph) | 9.4| 8.0| 6.5| 5.8| 6.1| 6.0| 7.3| 6.7| 6.3| 11.0| 14.8| 16.3| 10.9| 12.1| 13.6| 14.3| 14.1| 3.1| 9.2| 8.8| 7.8| 6.3| 3.2| 4.3|
 
 
 ## Weather For Next 3 Days
 
 | Date | Condition | Temp (min - max °C) | Max Wind (kph) |
 |------|------------|---------------------|----------------|
-| 2026-05-16 | Thunderstorm | 24.8 - 31.7 | 22.8 |
-| 2026-05-17 | Thunderstorm | 26.3 - 31.2 | 17.0 |
-| 2026-05-18 | Thunderstorm | 23.7 - 30.2 | 15.0 |
+| 2026-05-17 | Thunderstorm | 25.3 - 31.3 | 16.3 |
+| 2026-05-18 | Thunderstorm | 25.1 - 28.3 | 11.1 |
+| 2026-05-19 | Heavy rain showers | 23.8 - 28.1 | 14.1 |
 
-_Last updated: Sat May 16 02:34:49 UTC 2026 UTC_
+_Last updated: Sun May 17 02:42:42 UTC 2026 UTC_
