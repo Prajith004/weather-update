@@ -1,22 +1,22 @@
 # Weather in Udupi, Karnataka, India
 
-**Date:** 2026-05-20
+**Date:** 2026-05-21
 
 ## Today's Hourly Weather
 
 | Hour | 00:00 | 01:00 | 02:00 | 03:00 | 04:00 | 05:00 | 06:00 | 07:00 | 08:00 | 09:00 | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 | 16:00 | 17:00 | 18:00 | 19:00 | 20:00 | 21:00 | 22:00 | 23:00 |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Condition | Overcast| Overcast| Overcast| Light drizzle| Light drizzle| Light drizzle| Overcast| Overcast| Light drizzle| Moderate drizzle| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Overcast| Light drizzle| Light drizzle| Light drizzle| Light drizzle|
-| Temperature (°C) | 26.1°C| 26.3°C| 26.4°C| 25.8°C| 25.6°C| 25.4°C| 25.4°C| 26.2°C| 26.8°C| 27.8°C| 28.4°C| 28.8°C| 29.2°C| 29.8°C| 29.7°C| 29.4°C| 29.1°C| 28.8°C| 28.3°C| 27.6°C| 27.3°C| 26.8°C| 26.5°C| 26.1°C|
-| Wind (kph) | 9.2| 9.2| 10.3| 12.1| 13.7| 13.4| 12.4| 12.5| 11.8| 13.4| 12.5| 11.9| 11.8| 12.6| 13.4| 13.5| 13.8| 11.3| 8.0| 5.0| 4.3| 6.3| 6.2| 6.7|
+| Condition | Overcast| Light drizzle| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Thunderstorm| Light drizzle| Light drizzle| Moderate drizzle| Moderate drizzle| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Moderate drizzle| Light drizzle| Light drizzle| Light drizzle| Moderate drizzle| Moderate drizzle| Moderate drizzle| Moderate drizzle|
+| Temperature (°C) | 27.9°C| 27.5°C| 27.1°C| 26.9°C| 26.7°C| 26.6°C| 26.8°C| 27.5°C| 28.4°C| 29.4°C| 29.5°C| 30.1°C| 30.2°C| 30.4°C| 30.2°C| 29.4°C| 28.5°C| 28.4°C| 27.9°C| 27.2°C| 27.1°C| 26.8°C| 26.5°C| 26.1°C|
+| Wind (kph) | 1.7| 2.4| 5.0| 6.1| 5.7| 3.3| 7.1| 6.0| 7.3| 7.7| 10.4| 13.5| 16.0| 15.6| 12.2| 13.2| 9.9| 8.1| 6.3| 4.5| 4.7| 4.8| 5.5| 5.7|
 
 
 ## Weather For Next 3 Days
 
 | Date | Condition | Temp (min - max °C) | Max Wind (kph) |
 |------|------------|---------------------|----------------|
-| 2026-05-20 | Moderate drizzle | 25.4 - 29.8 | 13.8 |
-| 2026-05-21 | Thunderstorm | 25.3 - 31.4 | 18.4 |
-| 2026-05-22 | Thunderstorm | 23.6 - 30.9 | 18.4 |
+| 2026-05-21 | Thunderstorm | 26.1 - 30.4 | 16.0 |
+| 2026-05-22 | Heavy rain showers | 24.5 - 30.3 | 14.4 |
+| 2026-05-23 | Heavy rain showers | 23.7 - 29.8 | 15.6 |
 
-_Last updated: Wed May 20 02:50:18 UTC 2026 UTC_
+_Last updated: Thu May 21 02:53:34 UTC 2026 UTC_
