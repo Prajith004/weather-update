@@ -1,22 +1,22 @@
 # Weather in Udupi, Karnataka, India
 
-**Date:** 2026-06-08
+**Date:** 2026-06-09
 
 ## Today's Hourly Weather
 
 | Hour | 00:00 | 01:00 | 02:00 | 03:00 | 04:00 | 05:00 | 06:00 | 07:00 | 08:00 | 09:00 | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 | 16:00 | 17:00 | 18:00 | 19:00 | 20:00 | 21:00 | 22:00 | 23:00 |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Condition | Light drizzle| Overcast| Overcast| Overcast| Slight rain| Moderate drizzle| Moderate drizzle| Light drizzle| Moderate drizzle| Light drizzle| Moderate drizzle| Moderate drizzle| Slight rain| Light drizzle| Light drizzle| Moderate rain| Light drizzle| Dense drizzle| Slight rain| Moderate rain| Slight rain| Slight rain| Slight rain| Dense drizzle|
-| Temperature (°C) | 24.5°C| 24.4°C| 24.3°C| 24.3°C| 24.5°C| 24.7°C| 24.4°C| 24.1°C| 24.4°C| 25.4°C| 26.0°C| 27.0°C| 26.0°C| 28.0°C| 27.6°C| 26.1°C| 26.8°C| 25.9°C| 25.7°C| 24.7°C| 25.2°C| 24.7°C| 25.0°C| 25.0°C|
-| Wind (kph) | 9.1| 6.3| 6.0| 5.3| 7.3| 3.8| 6.6| 10.5| 12.7| 12.1| 9.9| 11.5| 11.6| 13.1| 11.5| 10.3| 9.5| 10.6| 5.6| 8.0| 2.5| 6.3| 4.9| 7.5|
+| Condition | Moderate drizzle| Moderate drizzle| Light drizzle| Dense drizzle| Light drizzle| Slight rain| Moderate rain| Light drizzle| Moderate rain| Moderate drizzle| Moderate drizzle| Dense drizzle| Dense drizzle| Moderate drizzle| Rain showers| Heavy rain showers| Slight rain| Rain showers| Rain showers| Rain showers| Moderate rain| Moderate rain| Moderate rain| Slight rain|
+| Temperature (°C) | 24.7°C| 24.1°C| 23.7°C| 23.4°C| 23.5°C| 23.4°C| 23.3°C| 23.7°C| 24.4°C| 24.9°C| 25.5°C| 26.6°C| 26.2°C| 27.8°C| 26.2°C| 25.0°C| 25.4°C| 25.5°C| 25.3°C| 24.9°C| 23.9°C| 24.1°C| 24.3°C| 24.1°C|
+| Wind (kph) | 8.5| 7.5| 9.5| 10.4| 12.4| 11.4| 10.9| 10.9| 13.2| 11.1| 7.0| 3.9| 7.8| 6.2| 13.3| 8.7| 7.0| 4.8| 7.5| 7.4| 2.9| 1.8| 1.8| 2.9|
 
 
 ## Weather For Next 3 Days
 
 | Date | Condition | Temp (min - max °C) | Max Wind (kph) |
 |------|------------|---------------------|----------------|
-| 2026-06-08 | Moderate rain | 24.1 - 28.0 | 13.1 |
-| 2026-06-09 | Heavy rain showers | 23.8 - 25.6 | 15.0 |
-| 2026-06-10 | Heavy rain showers | 23.3 - 26.7 | 14.8 |
+| 2026-06-09 | Heavy rain showers | 23.3 - 27.8 | 13.3 |
+| 2026-06-10 | Heavy rain showers | 23.3 - 27.0 | 13.6 |
+| 2026-06-11 | Heavy rain showers | 23.0 - 28.8 | 14.9 |
 
-_Last updated: Mon Jun  8 03:34:07 UTC 2026 UTC_
+_Last updated: Tue Jun  9 02:43:55 UTC 2026 UTC_
