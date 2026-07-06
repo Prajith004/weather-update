@@ -1,22 +1,22 @@
 # Weather in Udupi, Karnataka, India
 
-**Date:** 2026-07-05
+**Date:** 2026-07-06
 
 ## Today's Hourly Weather
 
 | Hour | 00:00 | 01:00 | 02:00 | 03:00 | 04:00 | 05:00 | 06:00 | 07:00 | 08:00 | 09:00 | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 | 16:00 | 17:00 | 18:00 | 19:00 | 20:00 | 21:00 | 22:00 | 23:00 |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Condition | Heavy rain showers| Rain showers| Heavy rain showers| Rain showers| Heavy rain showers| Rain showers| Rain showers| Light drizzle| Moderate drizzle| Rain showers| Light drizzle| Light drizzle| Moderate drizzle| Thunderstorm| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Light drizzle| Rain showers| Moderate drizzle| Dense drizzle| Moderate drizzle| Moderate drizzle|
-| Temperature (°C) | 23.6°C| 23.5°C| 23.9°C| 23.7°C| 23.1°C| 22.9°C| 23.2°C| 25.2°C| 26.2°C| 26.2°C| 27.6°C| 29.0°C| 27.9°C| 27.1°C| 27.8°C| 29.0°C| 28.7°C| 28.5°C| 27.1°C| 24.7°C| 25.4°C| 24.5°C| 25.2°C| 25.0°C|
-| Wind (kph) | 3.7| 9.6| 6.6| 4.7| 9.0| 7.4| 11.8| 11.1| 13.9| 15.2| 14.8| 22.8| 24.2| 20.8| 22.9| 26.3| 25.4| 24.4| 24.7| 18.4| 17.0| 17.4| 11.5| 11.5|
+| Condition | Light drizzle| Rain showers| Rain showers| Light drizzle| Heavy rain showers| Heavy rain showers| Rain showers| Thunderstorm| Thunderstorm| Thunderstorm| Light drizzle| Thunderstorm| Thunderstorm with hail| Thunderstorm| Rain showers| Thunderstorm| Heavy rain showers| Thunderstorm| Heavy rain showers| Thunderstorm| Thunderstorm| Moderate drizzle| Thunderstorm| Rain showers|
+| Temperature (°C) | 26.0°C| 25.6°C| 24.7°C| 26.1°C| 25.8°C| 24.8°C| 24.9°C| 25.6°C| 26.4°C| 26.7°C| 28.1°C| 27.2°C| 27.4°C| 25.6°C| 25.5°C| 24.3°C| 24.6°C| 24.6°C| 25.0°C| 25.6°C| 25.1°C| 25.3°C| 25.2°C| 25.5°C|
+| Wind (kph) | 16.7| 17.6| 18.0| 19.6| 18.8| 19.7| 14.3| 16.6| 15.0| 18.7| 19.5| 20.0| 18.0| 13.5| 23.5| 6.1| 9.5| 8.1| 5.7| 11.8| 11.2| 12.6| 14.2| 15.1|
 
 
 ## Weather For Next 3 Days
 
 | Date | Condition | Temp (min - max °C) | Max Wind (kph) |
 |------|------------|---------------------|----------------|
-| 2026-07-05 | Thunderstorm | 22.9 - 29.0 | 26.3 |
-| 2026-07-06 | Thunderstorm | 23.8 - 27.3 | 22.5 |
-| 2026-07-07 | Thunderstorm | 23.3 - 26.1 | 13.6 |
+| 2026-07-06 | Thunderstorm with hail | 24.3 - 28.1 | 23.5 |
+| 2026-07-07 | Thunderstorm | 24.2 - 28.1 | 19.0 |
+| 2026-07-08 | Thunderstorm | 22.8 - 27.1 | 15.1 |
 
-_Last updated: Sun Jul  5 02:40:30 UTC 2026 UTC_
+_Last updated: Mon Jul  6 02:45:26 UTC 2026 UTC_
